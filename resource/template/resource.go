@@ -15,10 +15,10 @@ import (
 	"text/template"
 
 	"github.com/BurntSushi/toml"
-	"github.com/kelseyhightower/confd/backends"
-	"github.com/kelseyhightower/confd/log"
-	util "github.com/kelseyhightower/confd/util"
-	"github.com/kelseyhightower/memkv"
+	"github.com/modraska/confd/backends"
+	"github.com/modraska/confd/log"
+	util "github.com/modraska/confd/util"
+	"github.com/modraska/memkv"
 )
 
 type Config struct {

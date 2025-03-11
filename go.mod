@@ -1,4 +1,4 @@
-module github.com/kelseyhightower/confd
+module github.com/modraska/confd
 
 go 1.19
 
@@ -9,7 +9,7 @@ require (
 	github.com/garyburd/redigo v1.6.4
 	github.com/hashicorp/consul/api v1.26.1
 	github.com/hashicorp/vault/api v1.10.0
-	github.com/kelseyhightower/memkv v0.1.1
+	github.com/modraska/memkv v0.1.1
 	github.com/samuel/go-zookeeper v0.0.0-20201211165307-7117e9ea2414
 	github.com/sirupsen/logrus v1.9.3
 	go.etcd.io/etcd/client/v3 v3.5.11

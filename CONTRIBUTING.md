@@ -13,6 +13,8 @@ for life](http://en.wikipedia.org/wiki/Benevolent_Dictator_for_Life).
 Kelsey Hightower - the creator of Confd - serves as the project's BDFL. Kelsey serves as the final
 arbiter of any disputes and has the final say on project direction.
 
+Marek Odraska - the owner and lead of this fork of Confd (currently doing it as a side project)
+
 ## Core Maintainers
 
 Core maintainers are exceptionally knowledgeable about Confd. Core maintainers are responsible for
@@ -29,7 +31,7 @@ LGTM, otherwise they need approval from the BDFL.
 
 ### Who assigns maintainers?
 
-Kelsey.
+Marek.
 
 ### How can I become a maintainer?
 

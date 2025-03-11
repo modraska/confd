@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kelseyhightower/confd/log"
+	"github.com/modraska/confd/log"
 	clientv3 "go.etcd.io/etcd/client/v3"
 	"sync"
 )
