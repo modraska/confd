@@ -2,8 +2,6 @@
 
 Simple in memory k/v store.
 
-[![Build Status](https://travis-ci.org/kelseyhightower/memkv.svg)](https://travis-ci.org/kelseyhightower/memkv) [![GoDoc](https://godoc.org/github.com/kelseyhightower/memkv?status.png)](https://godoc.org/github.com/kelseyhightower/memkv)
-
 ## Usage
 
 ```Go
@@ -13,7 +11,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/kelseyhightower/memkv"
+	"github.com/modraska/memkv"
 )
 
 func main() {

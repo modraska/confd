@@ -1,4 +1,4 @@
-// Copyright 2014 Kelsey Hightower. All rights reserved.
+// Copyright 2025 Marek Odraska . All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license found in the LICENSE file.
 

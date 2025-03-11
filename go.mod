@@ -1,6 +1,6 @@
 module github.com/modraska/confd
 
-go 1.19
+go 1.24
 
 require (
 	github.com/BurntSushi/toml v1.3.2
@@ -9,7 +9,7 @@ require (
 	github.com/garyburd/redigo v1.6.4
 	github.com/hashicorp/consul/api v1.26.1
 	github.com/hashicorp/vault/api v1.10.0
-	github.com/modraska/memkv v0.1.1
+	github.com/modraska/memkv v0.1.0
 	github.com/samuel/go-zookeeper v0.0.0-20201211165307-7117e9ea2414
 	github.com/sirupsen/logrus v1.9.3
 	go.etcd.io/etcd/client/v3 v3.5.11

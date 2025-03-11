@@ -1,7 +1,5 @@
 # confd
 
-[![Build Status](https://travis-ci.org/modraska/confd.svg?branch=master)](https://travis-ci.org/modraska/confd)
-
 `confd` is a lightweight configuration management tool focused on:
 
 * keeping local configuration files up-to-date using data stored in [etcd](https://github.com/coreos/etcd),
@@ -24,7 +22,7 @@
 
 ## Building
 
-Go 1.10 is required to build confd, which uses the new vendor directory.
+Go 1.24 is required to build confd, which uses the new vendor directory.
 
 ```
 $ mkdir -p $GOPATH/src/github.com/modraska
